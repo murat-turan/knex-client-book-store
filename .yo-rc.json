@@ -1,0 +1,15 @@
+{
+  "@totalsoft/generator-webapp-rocket": {
+    "__TIMESTAMP__": "10/26/2022, 4:37:53 PM",
+    "__VERSION__": "2.0.0",
+    "projectDescriptionName": "Book Store with TS Rocket",
+    "gqlAddress": "localhost:4000",
+    "withSubscription": false,
+    "theme": "blue",
+    "addHelm": false,
+    "withRights": false,
+    "withMultiTenancy": false,
+    "addQuickStart": false,
+    "packageManager": "npm"
+  }
+}
